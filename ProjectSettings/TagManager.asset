@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dead
+  - Truskawka
+  - killer
+  - Undefined
+  - przeszkoda
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ' '
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1465726277
+    locked: 0
+  - name: middle01
+    uniqueID: 410192715
+    locked: 0
+  - name: middle02
+    uniqueID: 661900777
+    locked: 0
+  - name: foreground
+    uniqueID: 3708699793
+    locked: 0
+  - name: New Layer
+    uniqueID: 875517069
+    locked: 0
